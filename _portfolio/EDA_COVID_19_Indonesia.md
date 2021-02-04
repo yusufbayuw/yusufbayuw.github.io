@@ -128,7 +128,7 @@ plt.show()
 
 
 
-![png](output_4_1.png)
+<br/><img src='output_4_1.png'>
 
 
 
