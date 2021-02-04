@@ -128,7 +128,7 @@ plt.show()
 
 
 
-<br/><img src='output_4_1.png'>
+<br/><img src='/_portfolio/output_4_1.png'>
 
 
 
@@ -193,7 +193,7 @@ plt.show()
 
 
 
-![png](output_6_1.png)
+![png](/_portfolio/output_6_1.png)
 
 
 
