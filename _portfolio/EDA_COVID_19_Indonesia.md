@@ -1,3 +1,8 @@
+---
+title: "COVID19 Data Anaisis"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
 ```python
 import requests
 resp = requests.get('https://data.covid19.go.id/public/api/update.json')
