@@ -193,7 +193,7 @@ plt.show()
 
 
 
-![png](/_portfolio/output_6_1.png)
+![png](/images/500x300.png)
 
 
 
