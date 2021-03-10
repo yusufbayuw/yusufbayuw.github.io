@@ -1,9 +1,9 @@
-
 ---
 title: "Portfolio bokeh md"
 excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+
 ```python
 import numpy as np # we will use this later, so import it now
 
